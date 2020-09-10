@@ -1,4 +1,3 @@
-
 # -*- coding: utf-8 -*-
 import os
 import sys
@@ -19,7 +18,7 @@ if pilih == "1":
         os.system('git clone https://github.com/TheMagizz/DarkPremium')
         print "Pengistallan Selesai"
         print "[+] Selanjutnya Ketik $ cd DarkPremium"
-        print "[+] Lalu ketik $ python2 DarFB.py"
+        print "[+] Lalu ketik $ python2 DarkFB.py"
 elif pilih == "2":
         os.system('https://github.com/m4rche3ll-cyber/dark-vpro')
         print "Pengistallan Seleasi"
